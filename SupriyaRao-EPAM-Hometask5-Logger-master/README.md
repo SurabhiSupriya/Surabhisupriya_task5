@@ -1,2 +1,2 @@
-# VPavithra-EPAM-Hometask5-Logger
+# Supriya-EPAM-Hometask5-Logger
 Loggers
